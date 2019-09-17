@@ -1,0 +1,31 @@
+ID;Nome;Inside_UC;Inside_Area_ha;Grupo;Categoria;Ente federativo;ano_criacao;Status;A_MA_ha;A_CA_ha;A_TE_ha;A_OC_ha;A_UC_ha;A_UC_km;P_MA;P_CA;P_TE;P_OC;PM;ZEE;CG
+13;Floresta Nacional de Assu;N;0;US;Flona;Federal;1950;Criada;0.00;215.00;215.00;0.00;215.00;21.50;0.0000;0.0000;0.0000;0.0000;N;No Data;S
+1;Parque Estadual Dunas de Natal Jornalista Luiz Maria Alves;N;0;PI;Parque;Estadual;1977;Criada;1172.00;0.00;1172.00;0.00;1172.00;117.20;0.0035;0.0000;0.0002;0.0000;No Data;No Data;S
+10;Reserva Biologica do Atol das Rocas;N;0;PI;Rebio;Federal;1979;Criada;0.00;0.00;0.00;35187.41;35187.41;3518.74;0.0000;0.0000;0.0000;0.0365;S;No Data;N
+11;Estacao Ecologica do Serido;N;0;PI;Esec;Federal;1982;Criada;0.00;1124.00;1124.00;0.00;1124.00;112.40;0.0000;0.0002;0.0002;0.0000;S;No Data;S
+24;Reserva da Biosfera Santuorio Ecologico de Pipa;S;;NA;Outro;Particular;1986;Criada;60.00;0.00;60.00;0.00;60.00;6.00;0.0002;0.0000;0.0000;0.0000;NA;No Data;
+2;Parque Ecologico Pico do Cabugy;N;0;PI;Parque;Estadual;1988;Criada;0.00;625.98;625.98;0.00;625.98;62.60;0.0000;0.0001;0.0001;0.0000;N;N;N
+3;Parque Estadual Florencio Luciano;N;0;PI;Parque;Estadual;1988;Criada;0.00;446.02;446.02;0.00;446.02;44.60;0.0000;0.0001;0.0001;0.0000;N;N;N
+12;Floresta Nacional de Nisia Floresta;S;;US;Flona;Federal;1989;Criada;174.00;0.00;174.00;0.00;174.00;17.40;0.0005;0.0000;0.0000;0.0000;S;No Data;S
+4;Area de Protecao Ambiental de Piquiri ?Una;N;0;US;APA;Estadual;1990;Criada;38227.00;2200.00;40427.00;0.00;40427.00;4042.70;0.1137;0.0004;0.0077;0.0000;S;S;S
+22;Reserva Particular Patrimonio Natural Fazenda Salobro;N;0;US;RPPN;Particular;1994;Criada;0.00;755.95;755.95;0.00;755.95;75.60;0.0000;0.0002;0.0001;0.0000;No Data;No Data;No Data
+5;Area de Protecao Ambienta de Jenipabu - APAJ;N;0;US;APA;Estadual;1995;Criada;1881.00;0.00;1881.00;0.00;1881.00;188.10;0.0056;0.0000;0.0004;0.0000;S;S;S
+19;Reserva Particular Patrimonio Natural Ser Nativo;N;0;US;RPPN;Particular;1996;Criada;0.00;154.29;154.29;0.00;154.29;15.43;0.0000;0.0000;0.0000;0.0000;No Data;No Data;No Data
+6;Area de Protecao Ambiental Bonfim-Guara?ras;N;0;US;APA;Estadual;1999;Criada;42695.63;0.00;42695.63;0.00;42695.63;4269.56;0.1270;0.0000;0.0081;0.0000;N;No Data;S
+20;Reserva Particular Patrimonio Natural Mata Estrela;N;0;US;RPPN;Particular;2000;Criada;2039.93;0.00;2039.93;0.00;2039.93;203.99;0.0061;0.0000;0.0004;0.0000;No Data;No Data;No Data
+7;Area de Protecao Ambiental dos Recifes de Corais;N;0;US;APA;Estadual;2001;Criada;0.00;0.00;0.00;136344.12;136344.12;13634.41;0.0000;0.0000;0.0000;0.1412;S;S;S
+8;Reserva de DeseNlvimeN Sustent?vel Estadual Ponta do Tubar?o;N;0;US;RDS;Estadual;2003;Criada;536.23;8497.11;9033.34;3906.73;12940.07;1294.01;0.0016;0.0017;0.0017;0.0040;N;No Data;S
+25;Faixa de Protecao do Rio Pitimbu;N;0;NA;Outro;Estadual;2003;Criada;4792.93;0.00;4792.93;0.00;4792.93;479.29;0.0143;0.0000;0.0009;0.0000;NA;No Data;No Data
+9;Parque Estadual Mata da Pipa;S;0;PI;Parque;Estadual;2006;Criada;290.88;0.00;290.88;0.00;290.88;29.09;0.0009;0.0000;0.0001;0.0000;S;S;S
+15;Parque da Cidade do Natal Dom Nivaldo Monte;N;0;PI;Parque;Municipal;2006;Criada;62.20;0.00;62.20;0.00;62.20;6.22;0.0002;0.0000;0.0000;0.0000;No Data;No Data;No Data
+16;Reserva Faunistica Costeira de Tibau do Sul - REFAUTS;Parcial;;US;Reserva Faunistica;Municipal;2006;Criada;0.00;0.00;0.00;167.76;167.76;16.78;0.0000;0.0000;0.0000;0.0002;No Data;No Data;S
+23;Reserva Particular Patrimonio Natural Fazenda Santa Helena;N;0;US;RPPN;Particular;2006;Criada;0.00;21.60;21.60;0.00;21.60;2.16;0.0000;0.0000;0.0000;0.0000;No Data;No Data;No Data
+17;Parque Municipal Boca da Mata;N;0;PI;Parque;Municipal;2008;Criada;69.00;0.00;69.00;0.00;69.00;6.90;0.0002;0.0000;0.0000;0.0000;No Data;No Data;No Data
+21;Reserva Particular Patrimonio Natural Esperanca;N;0;US;RPPN;Particular;2010;Criada;0.00;500.00;500.00;0.00;500.00;50.00;0.0000;0.0001;0.0001;0.0000;No Data;No Data;No Data
+14;Parque Nacional da Furna Feia;N;0;PI;Parque;Federal;2013;Criada;0.00;8494.00;8494.00;0.00;8494.00;849.40;0.0000;0.0017;0.0016;0.0000;N;No Data;N
+18;Area de Relevante Interesse Ecologico (ARIE) da Ilha da Coroa;N;0;US;ARIE;Municipal;2013;Criada;0.00;80.00;80.00;0.00;80.00;8.00;0.0000;0.0000;0.0000;0.0000;No Data;No Data;No Data
+;Area de Relevante Interesse Ecologico Mata da Bica de Portalegre RN;N;0;US;ARIE;Municipal;2016;Criada;0.00;50.66;50.66;0.00;50.66;5.07;0.0000;0.0000;0.0000;0.0000;N;N;N
+29;Parque Natural Municipal Jose Mulato;N;0;PI;Parque;Municipal;2017;Criada;82.50;0.00;82.50;0.00;82.50;8.25;0.0002;0.0000;0.0000;0.0000;N;No Data;No Data
+26;Area de Protecao Ambiental Dunas do Rosado;N;0;US;APA;Estadual;2018;Criada;0.00;16593.70;16593.70;0.00;16593.70;1659.37;0.0000;0.0034;0.0031;0.0000;N;No Data;N
+27;Area de Protecao Ambiental das Carnaubas;N;0;US;APA;Estadual;NA;Criar;0.00;100111.00;100111.00;0.00;100111.00;10011.10;0.0000;0.0202;0.0190;0.0000;N;No Data;No Data
+28;Parque Trangola;N;0;PI;Parque;Estadual;NA;Criar;0.00;458.50;458.50;0.00;458.50;45.85;0.0000;0.0001;0.0001;0.0000;N;No Data;No Data
