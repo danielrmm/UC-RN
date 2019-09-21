@@ -29,7 +29,7 @@ setwd("~/OneDrive/APA Bonfim-Guaraira/NUC/PEUC/Analises")
 
 setwd("C:/Users/Daniel Magalhaes/OneDrive/APA Bonfim-Guaraira/NUC/PEUC/Analises")
 
-ucrn = tbl_df( read.csv ("Dados/Tabelas/Informa??es_UCRN_2018_v0.csv", header = T, fileEncoding="UTF-8", sep =  ";"))
+ucrn = tbl_df( read.csv ("Dados/Tabelas/Info_UCRN_2018_v0.csv", header = T, fileEncoding="UTF-8", sep =  ";"))
 
 
 
